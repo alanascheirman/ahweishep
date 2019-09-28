@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://sohvohleaz.amyscholarship.com/sitemap.xml
